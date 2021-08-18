@@ -1,47 +1,36 @@
-# Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-> A curated list of delightful productivity resources.
+# 绝妙的个人生产力（Awesome Productivity 中文版） [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+> 这是一份由中文社区精选的，帮助提升你的个人生产力的资源清单。
+>
+> 本单由EastLakeSide社区发起，基于jyguyomarch的[awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)作为初始清单，后续根据社区贡献，挑选会更加偏向于国内中文用户喜好，加入流行的中文工具，去掉过时或不太流行的老旧资源。欢迎社区踊跃贡献，提PR或issue，帮助更多人获得爆表的个人生产力。
 
-## Table of Content
+[[_toc_]]
 
-- [Websites](#websites)
-- [Online Courses](#online-courses)
-- [Books](#books)
-- [Tools and Apps](#tools-and-apps)
-  - [File Management](#file-management)
-  - [Note Management](#note-management)
-  - [Task Management](#task-management)
-  - [Habit Trackers](#habit-trackers)
-  - [Task Automation](#task-automation)
-  - [Password Manager](#password-manager)
-  - [Knowledge Management](#knowledge-management)
-  - [Miscellaneous](#miscellaneous)
+## 网站
 
-## Websites
+- [LifeHacker](http://lifehacker.com/) – 生活黑客，这是一个长期关注个人生产力的博客，有非常多的信息。
+- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – 一个实现GTD的教程，使用 [Remember the Milk](https://www.rememberthemilk.com)方法。
+- [Inbox Zero](http://www.43folders.com/izero) – 邮件管理的严格方案，旨在始终保持收件箱（几乎）为空。
+- [Pomodoro Technique（番茄钟工作法）](http://pomodorotechnique.com/) – 将你的任务切片成25分钟的小包，从而更专注而高效。
+- [r/Productivity](https://www.reddit.com/r/productivity/) – Reddit的生产力讨论区.
+- [简单的三个图标让你的桌面变得整洁](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – 一个把桌面保持干净的小技巧。
+- [ShortLib](https://shortlib.netlify.app/) – 操作系统和主流应用的快捷键合集.
+- [The Bullet Journal](http://bulletjournal.com/) – 子弹日记：一只笔和纸的方法，来将简单的笔记本，转变为高效生产力工具。
+- [Zen Habits](https://zenhabits.net/) – Leo Babauta的博客：主题包括简化生活等。
 
-- [12+ Tips and Tricks to Work Faster in Microsoft Outlook](http://lifehacker.com/12-tips-and-tricks-to-work-faster-in-microsoft-outlook-1540483009) – Tame your Outlook with these tips in order to get a little bit closer to the awesome _Inbox Zero_.
-- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – A tutorial on how to implement GTD with [Remember the Milk](https://www.rememberthemilk.com).
-- [Inbox Zero](http://www.43folders.com/izero) – Rigorous approach to email management aimed at keeping the inbox (almost) empty at all times.
-- [Lifehacker](http://lifehacker.com/) – The go-to blog for tips, tricks, and downloads for getting things done.
-- [Pomodoro Technique](http://pomodorotechnique.com/) – Slice your tasks in 25 minute packages and get more done in less time.
-- [r/Productivity](https://www.reddit.com/r/productivity/) – Productivity subreddit.
-- [Rid Your Desktop of Clutter with This Simple Trio of Icons](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – A little trick that has been keeping my desktop clean for years now.
-- [ShortLib](https://shortlib.netlify.app/) – Collection of hundreds of shortcuts for Windows, Mac and Linux.
-- [The Bullet Journal](http://bulletjournal.com/) – A pen and paper method that turns a simple notebook into a highly efficient productivity tool.
-- [Zen Habits](https://zenhabits.net/) – Blog by Leo Babauta with topics such as simplifying life.
+## 在线课程
 
-## Online Courses
+## 书籍
 
-## Books
-
-- [Deep Work: Rules for Focused Success in a Distracted World](https://www.calnewport.com/books/deep-work/) by Cal Newport – Deep work is the ability to focus without distraction on a cognitively demanding task.
-- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – A very simple and efficient time-management method.
+- [深度工作：在分心世界中专注成功的规则](https://www.calnewport.com/books/deep-work/) by Cal Newport – 深度工作是一种专注于认知要求高的任务而不会分心的能力。
+- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – 一种非常简单有效的时间管理方法，享誉全球.
 - [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
-## Tools and Apps
+## 工具和应用
+> 工欲善其事必先利其器
 
-### File Management
+
+### 文件管理
 
 - [Box](https://www.box.com) – Very good cloud storage solution for business customers.
 - [Dropbox](https://www.dropbox.com) – Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
@@ -50,10 +39,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Mega](https://mega.nz/) – A very generous (50G from the get go) and highly secure cloud storage solution.
 - [Nextcloud](https://nextcloud.com) – The self-hosted productivity platform that keeps you in control.
 
-### Note Management
+
+### 笔记管理
 
 - [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
-- [Google Keep](http://www.google.com/keep/) – A nice and simple Note management system tightly integrated with Google products.
 - [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
 - [Joplin](https://joplinapp.org/) – A note taking and to-do application with synchronization capabilities.
 - [Notion](https://www.notion.so/) – An all-in-one very customizable workspace for notes, tasks, wikis and lists.
@@ -63,7 +52,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
 - [WorkFlowy](https://workflowy.com/) – Web-based outlining application for nested bulletin lists.
 
-### Task Management
+### 知识管理
+
+- [Obie.ai](https://obie.ai/) – AI platform that brings all knowledge and documentation into one spot.
+
+
+### 任务管理
 
 - [Airtable](https://airtable.com/) – Mix of spreadsheet and database to help organize work.
 - [Amazing Marvin](https://www.amazingmarvin.com/) – Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
@@ -85,7 +79,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Trello](https://trello.com) – Kanban method task board.
 - [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
 
-### Habit Trackers
+### 习惯追踪器
 
 - [Everyday](https://everyday.app/) – Form new habits by doing things every day.
 - [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
@@ -93,7 +87,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) – An Android app for creating and maintaining good habits.
 - [Waka Time](https://wakatime.com/) –  Open source plugin for knowing exactly how long you spend coding.
 
-### Task Automation
+### 任务自动化
 
 - [AutoIt](https://www.autoitscript.com/) – Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
 - [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
@@ -102,14 +96,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
 - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
 
-### Password Manager
+### 密码管理
 
-- [LastPass](https://lastpass.com) – A freemium password manager that stores encrypted passwords online.
+- [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
 
-### Knowledge Management
 
-- [Obie.ai](https://obie.ai/) – AI platform that brings all knowledge and documentation into one spot.
-
-### Miscellaneous
+### 其他杂项
 
 - [ShareX](https://getsharex.com/) – Screen capture, file sharing and productivity tool.
