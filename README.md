@@ -119,6 +119,12 @@
 - [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
 - [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
 
+
+### 启动器
+> 启动器让你输入简单的命令就可执行一系列操作
+- [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能全面插件众多。
+- 
+
 ### 密码管理
 > 节省记密码和找密码的时间
 
