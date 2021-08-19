@@ -1,19 +1,30 @@
 # 绝妙的个人生产力（Awesome Productivity 中文版） [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> 这是一份由中文社区精选的，帮助提升你的个人生产力的资源清单。
+> 这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。
 >
-> 本单由EastLakeSide社区发起，更加偏向于国内中文用户喜好，会加入流行的中文工具，去掉过时或不太流行的老旧资源。欢迎社区踊跃贡献，提PR或issue，帮助更多人获得个人生产力的飞跃。
+> 本单由EastLakeSide社区发起，更加偏向于国内中文用户喜好，会加入流行的中文工具，去掉过时或不太流行的老旧资源。欢迎社区踊跃贡献，提PR或issue，帮助更多人获得个人生产力的飞跃。贡献者清单请见右侧Contributors一栏。
 > 
-> 清单贡献原则：收罗为主，附简短介绍和一句话评价，不展开做详细的评测，因为事物都在不断发生变化，所以由读者自行根据最新情况进行自己的测评。
+> 清单贡献原则：收罗为主，附简短介绍和一句话评价，不展开做详细的评测（评测请由读者自行根据最新情况挑选测评，因为事物每天都在不断迭代变化）。
 > 
 > 感谢jyguyomarch的[awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，并使用其作为最初始清单。
 
-[[_toc_]]
+```
+提示：查看本单目录请使用Github边栏按钮
+```
+
+## 书籍
+> 原理和法则，能抵御时间之剑，历久弥新。
+
+- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – 一种非常简单有效的时间管理方法，享誉全球.
+- [深度工作：在分心世界中专注成功的规则](https://www.calnewport.com/books/deep-work/) by Cal Newport – 深度工作是一种专注于认知要求高的任务而不会分心的能力。
+- [5 种选择](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – 一种全方位生产力方法论，用于处理优先级、日程安排、技术和精力管理。
+
 
 ## 网站
+> 从这里持续获得最新的应用实践。
 
 - [LifeHacker](http://lifehacker.com/) – 生活黑客，这是一个长期关注个人生产力的博客，有非常多的信息。
-- [Advanced GTD with Remember The Milk](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – 一个实现GTD的教程，使用 [Remember the Milk](https://www.rememberthemilk.com)方法。
+- [使用「Remember The Milk」方法实现高级GTD](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – 一个实现GTD的教程，使用 [Remember the Milk](https://www.rememberthemilk.com)方法。
 - [Inbox Zero](http://www.43folders.com/izero) – 邮件管理的严格方案，旨在始终保持收件箱（几乎）为空。
 - [Pomodoro Technique（番茄钟工作法）](http://pomodorotechnique.com/) – 将你的任务切片成25分钟的小包，从而更专注而高效。
 - [r/Productivity](https://www.reddit.com/r/productivity/) – Reddit的生产力讨论区.
@@ -23,88 +34,97 @@
 - [Zen Habits](https://zenhabits.net/) – Leo Babauta的博客：主题包括简化生活等。
 
 ## 在线课程
+> 跟着老师学和练习
 
-## 书籍
-
-- [深度工作：在分心世界中专注成功的规则](https://www.calnewport.com/books/deep-work/) by Cal Newport – 深度工作是一种专注于认知要求高的任务而不会分心的能力。
-- [Getting Things Done](https://gettingthingsdone.com/store/product.php?productid=17035&cat=3&page) by David Allen – 一种非常简单有效的时间管理方法，享誉全球.
-- [The 5 Choices](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – An all around productivity methodology dealing with prioritization, scheduling, technology and energy management.
 
 ## 工具和应用
 > 工欲善其事必先利其器
 
 
-### 文件管理
+### 传统型笔记工具
+> 主要功能是把想法记下来，有了想法才能输出
 
-- [Box](https://www.box.com) – Very good cloud storage solution for business customers.
-- [Dropbox](https://www.dropbox.com) – Simple, elegant and versatile (PC, Macs, Android...) cloud storage solution.
-- [Google Drive](https://www.google.ca/drive/) – Cloud storage solution deeply integrated in the Google ecosystem.
-- [OneDrive](https://onedrive.live.com) – Best cloud storage solution for Windows users.
-- [Mega](https://mega.nz/) – A very generous (50G from the get go) and highly secure cloud storage solution.
-- [Nextcloud](https://nextcloud.com) – The self-hosted productivity platform that keeps you in control.
+- [Evernote](https://evernote.com/) – 印象笔记可以帮你记住一切，并且多端同步（PS: 中国版广告营销过于猛烈）
+- [Inkdrop](https://www.inkdrop.info/) – 一款面向 Markdown 爱好者的跨平台笔记应用。
+- [Joplin](https://joplinapp.org/) – 具有同步功能的笔记和待办事项应用程序。
+- [Notion](https://www.notion.so/) – 用于笔记、任务、wiki 和列表的一站式可高度定制的工作区。
+- [OneNote](https://www.onenote.com/) – 微软出品的非常好的结构化笔记管理解决方案。
+- [Preserver](https://github.com/hsbalar/preserver) – 基于 Electron 的笔记管理器桌面应用程序。
+- [Simplenote](https://simplenote.com/) – 轻量、干净、免费、跨平台。
+- [Standard Notes](https://standardnotes.org/) – 一个简单且私密的笔记应用。
+- [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
+- [Dynalist](https://workflowy.com/) – 模仿WorkFlowy的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
+
+### 新一代知识图谱型笔记工具
+> 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。
+- [RoamResearch](https://roamresearch.com/) - 双链笔记的开创者，可惜巨贵，启发了一大批Roam类的新一代笔记工具。
+- [思源笔记](https://b3log.org/siyuan/) - 国产良心免费的双链笔记集大成者，功能完成度高，由勤劳的资深开源创作者D大和V大联袂开发。
+- [Obsidian](https://obsidian.md/) - Dynalist原班人马的最新力作，用户体验丝滑的双链知识库。
+- [logseq](https://logseq.com/) - 国人开源共建的双链笔记。
 
 
-### 笔记管理
+### 文件管理工具
+> 管理你的数字资产
 
-- [Evernote](https://evernote.com/) – Evernote can basically become your second brain and remember everything for you.
-- [Inkdrop](https://www.inkdrop.info/) – A cross-platform note taking app for Markdown lovers.
-- [Joplin](https://joplinapp.org/) – A note taking and to-do application with synchronization capabilities.
-- [Notion](https://www.notion.so/) – An all-in-one very customizable workspace for notes, tasks, wikis and lists.
-- [OneNote](https://www.onenote.com/) – Very good Note management solution, but best for Windows users.
-- [Preserver](https://github.com/hsbalar/preserver) – Notes organizer desktop app based on Electron.
-- [Simplenote](https://simplenote.com/) – Light, clean, and free. Simplenote is now available for iOS, Android, Mac, Windows, Linux, and the web.
-- [Standard Notes](https://standardnotes.org/) – A simple and private notes app.
-- [WorkFlowy](https://workflowy.com/) – Web-based outlining application for nested bulletin lists.
-
-### 知识管理
-
-- [Obie.ai](https://obie.ai/) – AI platform that brings all knowledge and documentation into one spot.
+- [Box](https://www.box.com) – 非常适合企业客户的云存储解决方案。
+- [Dropbox](https://www.dropbox.com) – 简单、优雅和多功能（PC、Macs、Android...）云存储解决方案。
+- [Google Drive](https://www.google.com/drive/) – 深度集成在谷歌生态系统中的云存储解决方案。
+- [OneDrive](https://onedrive.live.com) – 微软出品的云存储解决方案。
+- [Mega](https://mega.io/) – 非常慷慨（从一开始就 20G）和高度安全的云存储解决方案。
+- [Nextcloud](https://nextcloud.com) – 让您掌控一切的自托管生产力平台。
+- [坚果云](https://www.jianguoyun.com/) - 国产云盘，任何设备，随时随地实现文件共享。
 
 
 ### 任务管理
+> 项目规划管理，敏捷高效地完成个人任务。
 
-- [Airtable](https://airtable.com/) – Mix of spreadsheet and database to help organize work.
-- [Amazing Marvin](https://www.amazingmarvin.com/) – Marvin incorporates principles from behavioral psychology to help beat procrastination, feel in control and finish todo list.
-- [Any.do](http://www.any.do/) – Simple interface, packed with features, currently the favorite to-do list manager at [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers).
-- [GitHub Projects](https://github.com/features/project-management/) – A lesser known feature of GitHub, makes it easy to tie your project management process to your code.
-- [Hitask](https://hitask.com) – Easy Project and Task Management for Teams.
-- [KanbanFlow](https://kanbanflow.com) – Kanban method task board with Pomodoro technique.
-- [Microsoft To Do](https://todo.microsoft.com/tasks/) – Microsoft cloud-based task management application based on Wunderlist technology.
-- [OmniFocus](https://www.omnigroup.com/omnifocus) – A Getting Things Done based task manager for Mac OS X and iOS.
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – A pomodoro app for your menubar/tray.
-- [Remember the Milk](https://www.rememberthemilk.com) – Great at managing tags for to-dos and location based tasks.
-- [Taskade](https://taskade.com) – Simple and collaborative task lists for teams.
-- [Taskwarrior](http://taskwarrior.org/) – An open source command line task manager. Flexible, fast, efficient, and unobtrusive.
-- [Timing](https://timingapp.com/) – Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
-- [Tinido](https://tinido.com/) – A beautiful and simple task management app that can also give you insights by showing your completed tasks in a contribution graph similar to the one you find on your GitHub profile.
-- [Todo.txt](http://todotxt.com/) – Tired of having complicated apps to organize your tasks? Todo.txt is a technique that uses a single `.txt` file to help you get the job done.
-- [Todoist](https://todoist.com/) – Powerful and cross-platform productivity tool.
-- [Topydo](https://github.com/topydo/topydo) – A powerful todo list application using the todo.txt format, positioned between todo.txt CLI and Taskwarrior.
-- [Trello](https://trello.com) – Kanban method task board.
-- [VivifyScrum](https://www.vivifyscrum.com) – Agile project management app for teams that deliver. Customizable Scrum and Kanban boards.
+- [Airtable](https://airtable.com/) – 混合使用电子表格和数据库来帮助组织工作, 类似于多维表格。
+- [Amazing Marvin](https://www.amazingmarvin.com/) – Marvin 结合了行为心理学的原理，帮助克服拖延症、掌控一切并完成待办事项列表。
+- [Any.do](http://www.any.do/) – 界面简洁，功能丰富，目前是 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers)最喜欢的待办事项列表管理器.
+- [Azure Boards](https://azure.microsoft.com/zh-cn/services/devops/boards/) - 微软最新出品的敏捷迭代管理工具，界面简洁流畅，厌倦了Jira可以试试。
+- [GitHub Projects](https://github.com/features/project-management/) – Github的项目功能，可以轻松地将您的项目管理过程与您的代码联系起来。
+- [Hitask](https://hitask.com) – 轻松的团队项目和任务管理。
+- [Jira](https://www.atlassian.com/software/jira) - 享誉全球的敏捷迭代和项目管理工具。
+- [KanbanFlow](https://kanbanflow.com) – 使用番茄工作法的看板方法任务板。
+- [Microsoft To Do](https://todo.microsoft.com/tasks/) – 微软的云任务管理应用程序，基于Wunderlist奇妙清单技术。
+- [OmniFocus](https://www.omnigroup.com/omnifocus) – 用于 Mac OS X 和 iOS 的基于“GTD”的任务管理器。
+- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – 菜单栏/托盘的番茄钟应用程序。
+- [Remember the Milk](https://www.rememberthemilk.com) – 擅长管理待办事项和基于位置的任务的标签。
+- [Taskade](https://taskade.com) – 团队的简单协作任务列表。
+- [Taskwarrior](http://taskwarrior.org/) – 一个开源命令行任务管理器。灵活、快速、高效且不引人注目。
+- [Timing](https://timingapp.com/) – Mac 的自动时间和生产力跟踪。帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间。
+- [Tinido](https://tinido.com/) – 一款漂亮而简单的任务管理应用程序，它可以通过在类似于在 GitHub 个人资料中找到的贡献图表中显示您已完成的任务来为您提供见解。
+- [Todo.txt](http://todotxt.com/) – 厌倦了用复杂的应用来组织你的任务？ Todo.txt 是一种使用单个`.txt`文件来帮助您完成工作的技术。
+- [Todoist](https://todoist.com/) – 强大的跨平台生产力工具。
+- [Topydo](https://github.com/topydo/topydo) – 使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间。
+- [Trello](https://trello.com) – Jira母公司出品的轻量级看板任务工具。
+- [VivifyScrum](https://www.vivifyscrum.com) – 适用于交付团队的敏捷项目管理应用程序。可定制的 Scrum 和看板。
 
 ### 习惯追踪器
+> 习惯是有动量惯性势头的，一旦培养起来，会产生飞轮效应。
 
-- [Everyday](https://everyday.app/) – Form new habits by doing things every day.
-- [Habitica](https://habitica.com) – Complete your real life daily goals in a role play game (previously called _HabitRPG_).
-- [HabitBull](http://www.habitbull.com/) – Premium habit tracker.
-- [Loop Habit Tracker](https://github.com/iSoron/uhabits) – An Android app for creating and maintaining good habits.
-- [Waka Time](https://wakatime.com/) –  Open source plugin for knowing exactly how long you spend coding.
+- [Everyday](https://everyday.app/) – 通过每天做事来养成新习惯。
+- [Habitica](https://habitica.com) – 在角色扮演游戏中完成你现实生活中的日常目标。（以前称为 _HabitRPG_）
+- [HabitBull](http://www.habitbull.com/) – 高级习惯追踪器。
+- [Loop Habit Tracker](https://github.com/iSoron/uhabits) – 一个用于创建和保持良好习惯的 Android 应用程序。
+- [Waka Time](https://wakatime.com/) –  开源插件，用于准确了解你编程花费的时间。
 
 ### 任务自动化
+> 自动化会让生产力再度飞跃
 
-- [AutoIt](https://www.autoitscript.com/) – Small tool for Windows to automate the Windows GUI, but it can also be used for other purposes.
-- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
-- [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
-- [Qbserve](https://qotoqot.com/qbserve/) – Mac time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback.
-- [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
-- [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
+- [AutoIt](https://www.autoitscript.com/) – Windows 的小工具，用于自动化 Windows GUI，但它也可以用于其他目的。
+- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey 是一款免费的开源宏创建和自动化软件，适用于 Windows，允许用户自动执行重复性任务。
+- [IFTTT](https://ifttt.com) – 允许您在 Web 服务之间创建条件语句链（称为 _recipes_），以使 Web 为您服务并提高您的生产力。
+- [Qbserve](https://qotoqot.com/qbserve/) – Mac 时间跟踪自动化：自由项目跟踪、时间表、实时生产力反馈。
+- [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
+- [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
 
 ### 密码管理
+> 节省记密码和找密码的时间
 
 - [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
 
 
 ### 其他杂项
 
-- [ShareX](https://getsharex.com/) – Screen capture, file sharing and productivity tool.
+- [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力工具。
