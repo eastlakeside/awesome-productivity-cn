@@ -131,4 +131,5 @@
 ### 其他杂项
 > 一些暂时没有归类的生产力
 
+- [SnipPaste](https://zh.snipaste.com/) - 最简介高效的截图工具，没有之一。
 - [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力工具。
