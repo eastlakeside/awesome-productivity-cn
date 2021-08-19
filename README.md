@@ -119,10 +119,17 @@
 - [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
 - [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
 
+
+### 启动器
+> 启动器让你输入简单的命令就可执行一系列操作
+
+- [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能全面插件众多。
+
 ### 密码管理
 > 节省记密码和找密码的时间
 
 - [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
+- [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash实现，可以非常方便地和其它工具结合，如git
 
 ### 硬件
 > 帮助你生产，而不是消费。谨防「买前生产力，买后爱奇艺」
