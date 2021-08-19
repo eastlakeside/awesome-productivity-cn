@@ -123,6 +123,7 @@
 > 节省记密码和找密码的时间
 
 - [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
+- [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash实现，可以非常方便地和其它工具结合，如git
 
 ### 硬件
 > 帮助你生产，而不是消费
