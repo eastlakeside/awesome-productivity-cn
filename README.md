@@ -61,6 +61,7 @@
 - [思源笔记](https://b3log.org/siyuan/) - 国产良心免费的双链笔记集大成者，功能完成度高，由勤劳的资深开源创作者D大和V大联袂开发。
 - [Obsidian](https://obsidian.md/) - Dynalist原班人马的最新力作，用户体验丝滑的双链知识库。
 - [logseq](https://logseq.com/) - 国人开源共建的双链笔记。
+- [wolai](https://www.wolai.com/) - 支持双链的类notion笔记，在模仿notion的基础上增加了一些本土特性。
 
 
 ### 文件管理工具
@@ -124,6 +125,7 @@
 > 启动器让你输入简单的命令就可执行一系列操作
 
 - [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能全面插件众多。
+- [utools](https://u.tools/) - 支持全平台的spotlight类应用，具有良好扩展性。
 
 ### 密码管理
 > 节省记密码和找密码的时间
