@@ -2,14 +2,14 @@
 
 > 这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。
 >
-> 本单由EastLakeSide社区发起，更加偏向于国内中文用户喜好，会加入流行的中文工具，去掉过时或不太流行的老旧资源，保持一份State-of-the-Art的与时俱进的清单。欢迎社区踊跃贡献，提PR或issue，帮助更多人获得个人生产力的飞跃。贡献者清单请见右侧Contributors一栏。
+> 本单由 EastLakeSide 社区发起，更加偏向于国内中文用户喜好，会加入流行的中文工具，去掉过时或不太流行的老旧资源，保持一份 State-of-the-Art 的与时俱进的清单。欢迎社区踊跃贡献，提 PR 或 issue，帮助更多人获得个人生产力的飞跃。贡献者清单请见右侧 Contributors 一栏。
 > 
 > 清单贡献原则：收罗为主，附简短介绍和一句话评价，不展开做详细的评测（评测请由读者自行根据最新情况挑选测评，因为事物每天都在不断迭代变化）。
 > 
-> 感谢jyguyomarch的[awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，并使用其作为最初始清单。
+> 感谢 jyguyomarch 的 [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，并使用其作为最初始清单。
 
 ```
-提示：查看本单目录请使用Github边栏按钮
+提示：查看本单目录请使用 GitHub 边栏按钮
 ```
 
 ## 书籍
@@ -24,22 +24,21 @@
 > 从这里持续获得最新的应用实践。
 
 - [LifeHacker](http://lifehacker.com/) – 生活黑客，这是一个长期关注个人生产力的博客，有非常多的信息。
-- [使用「Remember The Milk」方法实现高级GTD](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – 一个实现GTD的教程，使用 [Remember the Milk](https://www.rememberthemilk.com)方法。
+- [使用「Remember The Milk」方法实现高级 GTD](http://blog.rememberthemilk.com/post/116665489183/guest-post-advanced-gtd-with-remember-the-milk) – 一个实现 GTD 的教程，使用 [Remember the Milk](https://www.rememberthemilk.com) 方法。
 - [Inbox Zero](http://www.43folders.com/izero) – 邮件管理的严格方案，旨在始终保持收件箱（几乎）为空。
-- [Pomodoro Technique（番茄钟工作法）](http://pomodorotechnique.com/) – 将你的任务切片成25分钟的小包，从而更专注而高效。
-- [r/Productivity](https://www.reddit.com/r/productivity/) – Reddit的生产力讨论区.
+- [Pomodoro Technique（番茄钟工作法）](http://pomodorotechnique.com/) – 将你的任务切片成 25 分钟的小包，从而更专注而高效。
+- [r/Productivity](https://www.reddit.com/r/productivity/) – Reddit 的生产力讨论区.
 - [简单的三个图标让你的桌面变得整洁](http://lifehacker.com/5901487/rid-your-desktop-of-clutter-with-this-simple-trio-of-icons) – 一个把桌面保持干净的小技巧。
 - [ShortLib](https://shortlib.netlify.app/) – 操作系统和主流应用的快捷键合集.
 - [The Bullet Journal](http://bulletjournal.com/) – 子弹日记：一只笔和纸的方法，来将简单的笔记本，转变为高效生产力工具。
-- [Zen Habits](https://zenhabits.net/) – Leo Babauta的博客：主题包括简化生活等。
+- [Zen Habits](https://zenhabits.net/) – Leo Babauta 的博客：主题包括简化生活等。
 
 ## 在线课程
 > 跟着老师学和练习
 
 
 ## 工具和应用
-> 工欲善其事必先利其器，在寻找称手兵器之前，请阅读：[工具癖患者的表现及自我修养
-](https://www.xianmin.org/post/05-tools-addict/)
+> 工欲善其事必先利其器，在寻找称手兵器之前，请阅读：[工具癖患者的表现及自我修养](https://www.xianmin.org/post/05-tools-addict/)
 
 ### 传统型笔记工具
 > 主要功能是把想法记下来，有了想法才能输出
@@ -53,15 +52,15 @@
 - [Simplenote](https://simplenote.com/) – 轻量、干净、免费、跨平台。
 - [Standard Notes](https://standardnotes.org/) – 一个简单且私密的笔记应用。
 - [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
-- [Dynalist](https://workflowy.com/) – 模仿WorkFlowy的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
+- [Dynalist](https://workflowy.com/) – 模仿 WorkFlowy 的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
 
 ### 新一代知识图谱型笔记工具
 > 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。
-- [RoamResearch](https://roamresearch.com/) - 双链笔记的开创者，可惜巨贵，启发了一大批Roam类的新一代笔记工具。
+- [RoamResearch](https://roamresearch.com/) - 双链笔记的开创者，可惜巨贵，启发了一大批 Roam 类的新一代笔记工具。
 - [思源笔记](https://b3log.org/siyuan/) - 国产良心免费的双链笔记集大成者，功能完成度高，由勤劳的资深开源创作者D大和V大联袂开发。
-- [Obsidian](https://obsidian.md/) - Dynalist原班人马的最新力作，用户体验丝滑的双链知识库。
+- [Obsidian](https://obsidian.md/) - Dynalist 原班人马的最新力作，用户体验丝滑的双链知识库。
 - [logseq](https://logseq.com/) - 国人开源共建的双链笔记。
-- [wolai](https://www.wolai.com/) - 支持双链的类notion笔记，在模仿notion的基础上增加了一些本土特性。
+- [wolai](https://www.wolai.com/) - 支持双链的类 Notion 笔记，在模仿 Notion 的基础上增加了一些本土特性。
 
 
 ### 文件管理工具
@@ -82,12 +81,12 @@
 - [Airtable](https://airtable.com/) – 混合使用电子表格和数据库来帮助组织工作, 类似于多维表格。
 - [Amazing Marvin](https://www.amazingmarvin.com/) – Marvin 结合了行为心理学的原理，帮助克服拖延症、掌控一切并完成待办事项列表。
 - [Any.do](http://www.any.do/) – 界面简洁，功能丰富，目前是 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers)最喜欢的待办事项列表管理器.
-- [Azure Boards](https://azure.microsoft.com/zh-cn/services/devops/boards/) - 微软最新出品的敏捷迭代管理工具，界面简洁流畅，厌倦了Jira可以试试。
-- [GitHub Projects](https://github.com/features/project-management/) – Github的项目功能，可以轻松地将您的项目管理过程与您的代码联系起来。
+- [Azure Boards](https://azure.microsoft.com/zh-cn/services/devops/boards/) - 微软最新出品的敏捷迭代管理工具，界面简洁流畅，厌倦了 Jira 可以试试。
+- [GitHub Projects](https://github.com/features/project-management/) – GitHub 的项目功能，可以轻松地将您的项目管理过程与您的代码联系起来。
 - [Hitask](https://hitask.com) – 轻松的团队项目和任务管理。
 - [Jira](https://www.atlassian.com/software/jira) - 享誉全球的敏捷迭代和项目管理工具。
 - [KanbanFlow](https://kanbanflow.com) – 使用番茄工作法的看板方法任务板。
-- [Microsoft To Do](https://todo.microsoft.com/tasks/) – 微软的云任务管理应用程序，基于Wunderlist奇妙清单技术。
+- [Microsoft To Do](https://todo.microsoft.com/tasks/) – 微软的云任务管理应用程序，基于 Wunderlist 奇妙清单技术。
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – 用于 Mac OS X 和 iOS 的基于“GTD”的任务管理器。
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – 菜单栏/托盘的番茄钟应用程序。
 - [Remember the Milk](https://www.rememberthemilk.com) – 擅长管理待办事项和基于位置的任务的标签。
@@ -95,10 +94,10 @@
 - [Taskwarrior](http://taskwarrior.org/) – 一个开源命令行任务管理器。灵活、快速、高效且不引人注目。
 - [Timing](https://timingapp.com/) – Mac 的自动时间和生产力跟踪。帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间。
 - [Tinido](https://tinido.com/) – 一款漂亮而简单的任务管理应用程序，它可以通过在类似于在 GitHub 个人资料中找到的贡献图表中显示您已完成的任务来为您提供见解。
-- [Todo.txt](http://todotxt.com/) – 厌倦了用复杂的应用来组织你的任务？ Todo.txt 是一种使用单个`.txt`文件来帮助您完成工作的技术。
+- [Todo.txt](http://todotxt.com/) – 厌倦了用复杂的应用来组织你的任务？ Todo.txt 是一种使用单个 `.txt` 文件来帮助您完成工作的技术。
 - [Todoist](https://todoist.com/) – 强大的跨平台生产力工具。
 - [Topydo](https://github.com/topydo/topydo) – 使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间。
-- [Trello](https://trello.com) – Jira母公司出品的轻量级看板任务工具。
+- [Trello](https://trello.com) – Jira 母公司出品的轻量级看板任务工具。
 - [VivifyScrum](https://www.vivifyscrum.com) – 适用于交付团队的敏捷项目管理应用程序。可定制的 Scrum 和看板。
 
 ### 习惯追踪器
@@ -131,7 +130,7 @@
 > 节省记密码和找密码的时间
 
 - [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
-- [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash实现，可以非常方便地和其它工具结合，如git
+- [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash 实现。可以非常方便地和其它工具结合，如 git
 - [bitwarden](https://bitwarden.com/) - 支持自己部署的开源密码管理
 
 ### 硬件
@@ -145,3 +144,4 @@
 - [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力工具。
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
