@@ -56,7 +56,7 @@
 - [flomo](https://flomoapp.com/) - 卡片笔记软件，极简的输入方式，使用标签管理信息。
 
 ### 新一代知识图谱型笔记工具
-> 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。
+> 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。  
 > （注：部分传统型笔记现已补上双链功能，但没有这些新工具对双链支持的体验顺畅、便捷和完善）
 
 
@@ -127,25 +127,4 @@
 ### 启动器
 > 启动器让你输入简单的命令就可执行一系列操作
 
-- [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能全面插件众多。
-- [utools](https://u.tools/) - 支持全平台的spotlight类应用，具有良好扩展性。
-
-### 密码管理
-> 节省记密码和找密码的时间
-
-- [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
-- [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash 实现。可以非常方便地和其它工具结合，如 git
-- [bitwarden](https://bitwarden.com/) - 支持自己部署的开源密码管理
-
-### 硬件
-> 帮助你生产，而不是消费。谨防「买前生产力，买后爱奇艺」
-
-
-### 其他杂项
-> 一些暂时没有归类的生产力
-
-- [Snipaste](https://zh.snipaste.com/) - 最简介高效的截图工具，没有之一。
-- [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力工具。
-- [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
-- [uTools](https://u.tools/) - 你的生产力工具集
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
+- [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能
