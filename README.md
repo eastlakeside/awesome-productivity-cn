@@ -52,11 +52,14 @@
 - [Simplenote](https://simplenote.com/) – 轻量、干净、免费、跨平台。
 - [Standard Notes](https://standardnotes.org/) – 一个简单且私密的笔记应用。
 - [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
-- [Dynalist](https://dynalist.io/) – 模仿 WorkFlowy 的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
+- [Dynalist](https://dynalist.io/) – 模仿 WorkFlowy 的大纲笔记，功能完善的集大成者，多端同步。
 - [flomo](https://flomoapp.com/) - 卡片笔记软件，极简的输入方式，使用标签管理信息。
 
 ### 新一代知识图谱型笔记工具
 > 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。
+> （注：部分传统型笔记现已补上双链功能，但没有这些新工具对双链支持的体验顺畅、便捷和完善）
+
+
 - [RoamResearch](https://roamresearch.com/) - 双链笔记的开创者，可惜巨贵，启发了一大批 Roam 类的新一代笔记工具。
 - [思源笔记](https://b3log.org/siyuan/) - 国产良心免费的双链笔记集大成者，功能完成度高，由勤劳的资深开源创作者D大和V大联袂开发。
 - [Obsidian](https://obsidian.md/) - Dynalist 原班人马的最新力作，用户体验丝滑的双链知识库。
