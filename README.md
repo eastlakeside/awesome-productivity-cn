@@ -54,6 +54,8 @@
 - [Standard Notes](https://standardnotes.org/) – 一个简单且私密的笔记应用。
 - [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
 - [Dynalist](https://workflowy.com/) – 模仿WorkFlowy的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
+- [flomo](https://flomoapp.com/) - 卡片笔记软件，极简的输入方式，使用标签管理信息。
+
 
 ### 新一代知识图谱型笔记工具
 > 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。
