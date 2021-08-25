@@ -52,7 +52,8 @@
 - [Simplenote](https://simplenote.com/) – 轻量、干净、免费、跨平台。
 - [Standard Notes](https://standardnotes.org/) – 一个简单且私密的笔记应用。
 - [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
-- [Dynalist](https://workflowy.com/) – 模仿 WorkFlowy 的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
+- [Dynalist](https://dynalist.io/) – 模仿 WorkFlowy 的青出于蓝而胜于蓝者，大纲笔记的集大成者，多端同步。
+- [flomo](https://flomoapp.com/) - 卡片笔记软件，极简的输入方式，使用标签管理信息。
 
 ### 新一代知识图谱型笔记工具
 > 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。
@@ -140,7 +141,7 @@
 ### 其他杂项
 > 一些暂时没有归类的生产力
 
-- [SnipPaste](https://zh.snipaste.com/) - 最简介高效的截图工具，没有之一。
+- [Snipaste](https://zh.snipaste.com/) - 最简介高效的截图工具，没有之一。
 - [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力工具。
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
