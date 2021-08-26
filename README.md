@@ -66,6 +66,13 @@
 - [logseq](https://logseq.com/) - 国人开源共建的双链笔记。
 - [wolai](https://www.wolai.com/) - 支持双链的类 Notion 笔记，在模仿 Notion 的基础上增加了一些本土特性。
 
+### 在线作图工具
+> 在线制作流程图、思维脑图、UML等，让思维快速呈现
+
+- [ProcessOn](https://www.processon.com/) - 一款专业在线作图工具和分享社区
+- [diagrams](https://app.diagrams.net/) - 好评如潮的diagrams.net, 以前叫draw.io, 也有本地客户端版本。
+- [excalidraw](https://excalidraw.com/) - 用于绘制手绘图表的虚拟白板
+- [asciiflow](https://asciiflow.com/#/) - 用于绘制 ASCII 图表
 
 ### 文件管理工具
 > 管理你的数字资产
@@ -123,7 +130,6 @@
 - [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
 - [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
 
-
 ### 启动器
 > 启动器让你输入简单的命令就可执行一系列操作
 
@@ -137,6 +143,7 @@
 - [bitwarden](https://bitwarden.com/) - 支持自己部署的开源密码管理
 - [花蜜](https://shansing.com/passwords/) - 使用两个有意义的片段来生成密码，方便记忆和找回。 [使用方法见讨论](https://github.com/eastlakeside/awesome-productivity-cn/issues/7)
 
+
 ### 硬件
 > 帮助你生产，而不是消费。谨防「买前生产力，买后爱奇艺」
 
@@ -147,3 +154,4 @@
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
+
