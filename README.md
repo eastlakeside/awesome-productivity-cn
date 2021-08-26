@@ -128,3 +128,22 @@
 > 启动器让你输入简单的命令就可执行一系列操作
 
 - [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能
+- [utools](https://u.tools/) - 支持全平台的spotlight类应用，具有良好扩展性。
+
+### 密码管理
+> 节省记密码和找密码的时间
+- [LastPass](https://lastpass.com) – 一站式云端存放管理密码的工具.
+- [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash 实现。可以非常方便地和其它工具结合，如 git
+- [bitwarden](https://bitwarden.com/) - 支持自己部署的开源密码管理
+- [花蜜](https://shansing.com/passwords/) - 使用两个有意义的片段来生成密码，方便记忆和找回。 [使用方法见讨论](https://github.com/eastlakeside/awesome-productivity-cn/issues/7)
+
+### 硬件
+> 帮助你生产，而不是消费。谨防「买前生产力，买后爱奇艺」
+
+### 其他杂项
+> 一些暂时没有归类的生产力
+- [Snipaste](https://zh.snipaste.com/) - 最简介高效的截图工具，没有之一。
+- [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力工具。
+- [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
+- [uTools](https://u.tools/) - 你的生产力工具集
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
