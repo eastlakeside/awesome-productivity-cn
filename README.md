@@ -155,4 +155,5 @@
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
+- [CleanShotX](https://sspai.com/item/227#389) - Macos，截屏+录屏，输出mp4、png、gif等主流格式。建议购买[setapp](https://setapp.com/)应用包，性价比更高
 
