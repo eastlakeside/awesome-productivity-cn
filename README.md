@@ -155,4 +155,4 @@
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
-
+- [Captura](https://mathewsachin.github.io/Captura/) - 开源录屏工具，操作简单，功能完善，可输出MP4、GIF等主流格式，仅支持Windows
