@@ -1,4 +1,6 @@
-# 绝妙的个人生产力（Awesome Productivity 中文版） [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 绝妙的个人生产力（Awesome Productivity 中文版） 
+
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 > 这是一份开放的由中文社区共建的绝妙系列精选资源清单，专注于提升个人生产力的知识方法和工具。
 >
@@ -9,7 +11,7 @@
 > 感谢 jyguyomarch 的 [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，并使用其作为最初始清单。
 
 ```
-提示：查看本单目录请使用 GitHub 边栏按钮
+提示：可访问本单的官方文档获得更便捷的阅读体验 <https://pro.eastlakeside.cn/>
 ```
 
 ## 书籍
