@@ -1,3 +1,13 @@
+# 本站文档使用mkdocs-material构建, 部署在（https://pro.eastlakeside.cn）
+# 构建步骤：
+# python3 -m venv .venv/mkdocs
+# source .venv/mkdocs/bin/activate
+# pip install -r requirements.txt
+# mkdocs serve
+
+
 site_name: 绝妙的个人生产力（Awesome Productivity 中文版）
 theme:
   name: material
+  features:
+    - toc.integrate
