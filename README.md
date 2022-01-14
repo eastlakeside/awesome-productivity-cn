@@ -69,6 +69,9 @@
 - [logseq](https://logseq.com/) - 国人开源共建的双链笔记。
 - [wolai](https://www.wolai.com/) - 支持双链的类 Notion 笔记，在模仿 Notion 的基础上增加了一些本土特性。
 
+### 图形化笔记工具
+- [NodeNote](https://github.com/yetao0806/NodeNote) - 支持markdown和无限画布的嵌套类型图形化笔记应用。
+
 ### 在线作图工具
 > 在线制作流程图、思维脑图、UML等，让思维快速呈现
 
