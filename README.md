@@ -126,21 +126,20 @@
 > 自动化会让生产力再度飞跃
 
 - [AutoIt](https://www.autoitscript.com/) – Windows 的小工具，用于自动化 Windows GUI，但它也可以用于其他目的。
-- [Awesome AutoHotKey](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey 是一款免费的开源宏创建和自动化软件，适用于 Windows，允许用户自动执行重复性任务。
 - [IFTTT](https://ifttt.com) – 允许您在 Web 服务之间创建条件语句链（称为 _recipes_），以使 Web 为您服务并提高您的生产力。
 - [Qbserve](https://qotoqot.com/qbserve/) – Mac 时间跟踪自动化：自由项目跟踪、时间表、实时生产力反馈。
 - [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
 - [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
-- [AutoHotKey]
+- [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L)(*Win*) - 即大名鼎鼎的AHK，优秀**开源**的自动化软件，时常会在别的地方见到他人分享的AHK宏脚本。
 
 ### 启动器
 > 启动器让你输入简单的命令就可执行一系列操作
 
-- [Alfred](https://www.alfredapp.com/) - Mac平台的老牌启动器，功能
-- [utools](https://u.tools/) - 支持全平台的spotlight类应用，具有良好扩展性。
-- [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)(*Win*) Listary的**开源**替代品，开发活跃插件众多，例如可调用Everything快速搜索文件、可自定义网络搜索引擎等。
-- [Playnite](https://github.com/JosefNemec/Playnite)(*Win*) 将众多游戏平台和模拟器平台全合一的数据库式**开源**游戏管理启动器，开发活跃插件众多，例如可借助**Flow Launcher**快速启动游戏。理论上也可用于管理本地软件。
-- [Lutris](https://github.com/lutris/lutris)(*Linux*) 类似于Playnite（侧重稍有不同）但更悠久，且作为Linux上的**开源**软件，还同时集成了Wine的功能。
+- [Alfred](https://www.alfredapp.com/)(*Mac*) - 老牌启动器
+- [utools](https://u.tools/)(*跨平台*) - spotlight类应用，具有良好扩展性。
+- [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)(*Win*) - Listary的**开源**替代品，开发活跃插件众多，例如可调用Everything快速搜索文件、可自定义网络搜索引擎等。
+- [Playnite](https://github.com/JosefNemec/Playnite)(*Win*) - 将众多游戏平台和模拟器平台全合一的数据库式**开源**游戏管理启动器，开发活跃插件众多，例如可借助**Flow Launcher**快速启动游戏。理论上也可用于管理本地软件。
+- [Lutris](https://github.com/lutris/lutris)(*Linux*) - 类似于Playnite（侧重稍有不同）但更悠久，且作为Linux上的**开源**软件，还同时集成了Wine的功能。
 
 ### 密码管理
 > 节省记密码和找密码的时间
@@ -149,7 +148,7 @@
 - [pass](https://www.passwordstore.org/) – 一款极简的密码管理工具，bash 实现。可以非常方便地和其它工具结合，如 git
 - [bitwarden](https://bitwarden.com/) - 支持自己部署的开源密码管理
 - [花蜜](https://shansing.com/passwords/) - 使用两个有意义的片段来生成密码，方便记忆和找回。 [使用方法见讨论](https://github.com/eastlakeside/awesome-productivity-cn/issues/7)
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc) -(*跨平台*) 作为老牌Win平台软件KeePass的美化+跨平台版，与前者一样**开源**，采用*.kdbx数据库文件但采用4.0标准。支持各主流浏览器插件方便随时调用。
+- [KeePassXC](https://github.com/keepassxreboot/keepassxc)(*跨平台*) - 作为老牌Win平台软件KeePass的美化+跨平台版，与前者一样**开源**，采用*.kdbx数据库文件但采用4.0标准。支持各主流浏览器插件方便随时调用。
 
 ### 静/动图像
 > 即使不是设计师/摄影师/动画师等，图像处理可能也是必备技能。
@@ -162,7 +161,7 @@
 - [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力的**开源**工具，支持自定义指令并绑定不同热键。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
 - [CleanShotX](https://sspai.com/item/227#389) - Macos，截屏+录屏，输出mp4、png、gif等主流格式。建议购买[setapp](https://setapp.com/)应用包，性价比更高
-- [OBS Studio](https://github.com/obsproject/obs-studio)(*跨平台*) 口碑积淀最深厚（没有之一）的强大**开源**录屏工具。
+- [OBS Studio](https://github.com/obsproject/obs-studio)(*跨平台*) - 口碑积淀最深厚（没有之一）的强大**开源**录屏工具。
 
 ### 硬件
 > 帮助你生产，而不是消费。谨防「买前生产力，买后爱奇艺」
@@ -176,6 +175,6 @@
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集
 - [uTools](https://u.tools/) - 你的生产力工具集
 - [Bartender](https://www.macbartender.com/) - Macos菜单栏图标管理，建议购买[setapp](https://setapp.com/)应用包，性价比更高，或者试试更为小巧的开源产品[Dozer](https://github.com/Mortennn/Dozer)
-- [KDE Connect](https://apps.kde.org/kdeconnect.kcm/)(*跨平台*) 著名**开源**社区KDE的诸多作品之一，用于手机与电脑间共享文件、粘贴版和通知等。
-- [scrcpy](https://github.com/Genymobile/scrcpy)(*Win*) 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的**开源**工具。很多的所谓同类产品实际上是它的套壳。
-- [LyX](https://www.lyx.org/)(*跨平台*) 所见即所想的**开源**文档处理软件，背靠数学公式吊打一切的LaTeX，但与LaTeX的陡峭学习曲线相比却做到了上手难度极低，可输出为LaTeX，写论文的好帮手。
+- [KDE Connect](https://apps.kde.org/kdeconnect.kcm/)(*跨平台*) - 著名**开源**社区KDE的诸多作品之一，用于手机与电脑间共享文件、粘贴版和通知等。
+- [scrcpy](https://github.com/Genymobile/scrcpy)(*Win*) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的**开源**工具。很多的所谓同类产品实际上是它的套壳。
+- [LyX](https://www.lyx.org/)(*跨平台*) - 所见即所想的**开源**文档处理软件，背靠数学公式吊打一切的LaTeX，但与LaTeX的陡峭学习曲线相比却做到了上手难度极低，可输出为LaTeX，写论文的好帮手。
