@@ -94,6 +94,7 @@
 ### 任务管理
 > 项目规划管理，敏捷高效地完成个人任务。
 
+- [滴答清单](https://dida365.com/) – 国产良心GTD任务列表，界面现代优雅，功能强大，有多种提醒方式，保证不错过任何提醒，谁用谁知道。
 - [Airtable](https://airtable.com/) – 混合使用电子表格和数据库来帮助组织工作, 类似于多维表格。
 - [Amazing Marvin](https://www.amazingmarvin.com/) – Marvin 结合了行为心理学的原理，帮助克服拖延症、掌控一切并完成待办事项列表。
 - [Any.do](http://www.any.do/) – 界面简洁，功能丰富，目前是 [Lifehacker](http://lifehacker.com/5924093/five-best-to-do-list-managers)最喜欢的待办事项列表管理器.
