@@ -144,6 +144,7 @@
 - [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)(*Win*) - Listary的**开源**替代品，开发活跃插件众多，例如可调用Everything快速搜索文件、可自定义网络搜索引擎等。
 - [Playnite](https://github.com/JosefNemec/Playnite)(*Win*) - 将众多游戏平台和模拟器平台全合一的数据库式**开源**游戏管理启动器，开发活跃插件众多，例如可借助**Flow Launcher**快速启动游戏。理论上也可用于管理本地软件。
 - [Lutris](https://github.com/lutris/lutris)(*Linux*) - 类似于Playnite（侧重稍有不同）但更悠久，且作为Linux上的**开源**软件，还同时集成了Wine的功能。
+- [raycast](https://www.raycast.com/)(*Mac*) - 类似于Alfred，是一个速度惊人、完全可扩展的启动器。它可以让你完成任务，计算，分享共同的链接，以及更多。
 
 ### 密码管理
 > 节省记密码和找密码的时间
