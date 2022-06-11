@@ -144,6 +144,7 @@
 - [Flow Launcher](https://github.com/Flow-Launcher/Flow.Launcher)(*Win*) - Listary 的**开源**替代品，开发活跃插件众多，例如可调用 Everything 快速搜索文件、可自定义网络搜索引擎等。
 - [Playnite](https://github.com/JosefNemec/Playnite)(*Win*) - 将众多游戏平台和模拟器平台全合一的数据库式**开源**游戏管理启动器，开发活跃插件众多，例如可借助**Flow Launcher**快速启动游戏。理论上也可用于管理本地软件。
 - [Lutris](https://github.com/lutris/lutris)(*Linux*) - 类似于 Playnite（侧重稍有不同）但更悠久，且作为 Linux 上的**开源**软件，还同时集成了 Wine 的功能。
+- [raycast](https://www.raycast.com/)(*Mac*) - 类似于Alfred，是一个速度惊人、完全可扩展的启动器。它可以让你完成任务，计算，分享共同的链接，以及更多。
 
 ### 密码管理
 > 节省记密码和找密码的时间
@@ -165,6 +166,7 @@
 - [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力的**开源**工具，支持自定义指令并绑定不同热键。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows。
 - [CleanShotX](https://sspai.com/item/227#389) - Macos，截屏 + 录屏，输出 mp4、png、gif 等主流格式。建议购买[setapp](https://setapp.com/)应用包，性价比更高。
+- [https://shotr.cc](shotr) - Macos**开源**截屏工具，长期更新，支持OCR识别。
 - [OBS Studio](https://github.com/obsproject/obs-studio)(*跨平台*) - 口碑积淀最深厚（没有之一）的强大**开源**录屏工具。
 
 ### 硬件
