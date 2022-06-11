@@ -165,6 +165,7 @@
 - [ShareX](https://getsharex.com/) – 屏幕截图、文件共享和生产力的**开源**工具，支持自定义指令并绑定不同热键。
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif/) - 一款录屏为 GIF 的工具，仅支持 Windows
 - [CleanShotX](https://sspai.com/item/227#389) - Macos，截屏+录屏，输出mp4、png、gif等主流格式。建议购买[setapp](https://setapp.com/)应用包，性价比更高
+- [https://shotr.cc](shotr) - Macos**开源**截屏工具，长期更新，支持OCR识别
 - [OBS Studio](https://github.com/obsproject/obs-studio)(*跨平台*) - 口碑积淀最深厚（没有之一）的强大**开源**录屏工具。
 
 ### 硬件
