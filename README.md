@@ -34,6 +34,7 @@
 - [ShortLib](https://shortlib.netlify.app/) – 操作系统和主流应用的快捷键合集。
 - [The Bullet Journal](http://bulletjournal.com/) – 子弹日记：一只笔和纸的方法，来将简单的笔记本，转变为高效生产力工具。
 - [Zen Habits](https://zenhabits.net/) – Leo Babauta 的博客：主题包括简化生活等。
+- [KeepRule](https://keeprule.com/) – 决策力提升平台，收录 26 位传奇投资大师（巴菲特、芒格、格雷厄姆等）的 1,300+ 投资原则，配合 95+ 真实投资场景训练，帮助用户在压力下做出更理性的决策。
 
 ## 在线课程
 > 跟着老师学和练习
