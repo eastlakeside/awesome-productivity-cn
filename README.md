@@ -10,6 +10,7 @@
 > 
 > 感谢 jyguyomarch 的 [awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)，本单受其启发，并使用其作为最初始清单。
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for productivity workflow orchestration, automated task management, and multi-agent coordination. MIT licensed.
 ## 提示：可访问本单的官方文档，获得更便捷的阅读体验  
 > --> [pro.eastlakeside.cn](https://pro.eastlakeside.cn/)
 
