@@ -118,6 +118,7 @@
 - [VivifyScrum](https://www.vivifyscrum.com) – 适用于交付团队的敏捷项目管理应用程序。可定制的 Scrum 和看板。
 
 ### 习惯追踪器
+- [lifeos-cli](https://github.com/liujuanjuan1984/lifeos-cli) - 终端原生的个人操作系统，涵盖任务、笔记、习惯追踪和时间审计，支持 Agent 自动化操作。
 > 习惯是有动量惯性势头的，一旦培养起来，会产生飞轮效应。
 
 - [Everyday](https://everyday.app/) – 通过每天做事来养成新习惯。
