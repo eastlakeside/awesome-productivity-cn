@@ -180,6 +180,7 @@
 
 - [Mathpix Snip](https://mathpix.com/) - 复杂数学公式识别工具 (OCR)，论文、写作的绝佳助力。 
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集。
+- [Anytools](https://anytools.io/) - 89+ 免费在线工具合集：JSON 格式化、JWT 解码、Base64 编解码、正则测试、密码生成器、CSS 生成器、TDEE 计算器等。全部浏览器端处理，数据不离开本地，无需注册。
 - [uTools](https://u.tools/) - 你的生产力工具集。
 - [Bartender](https://www.macbartender.com/) - Macos 菜单栏图标管理，建议购买[setapp](https://setapp.com/)应用包，性价比更高，或者试试更为小巧的开源产品[Dozer](https://github.com/Mortennn/Dozer)。
 - [KDE Connect](https://apps.kde.org/kdeconnect.kcm/)(*跨平台*) - 著名**开源**社区 KDE 的诸多作品之一，用于手机与电脑间共享文件、粘贴版和通知等。
