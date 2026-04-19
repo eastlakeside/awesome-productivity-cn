@@ -134,6 +134,8 @@
 - [Qbserve](https://qotoqot.com/qbserve/) – Mac 时间跟踪自动化：自由项目跟踪、时间表、实时生产力反馈。
 - [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
 - [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - 自我进化的AI编程智能，拥有无限记忆(TurboQuant)、遗传算法自进化、预测性错误检测、PageRank知识图谱、群体智能和对抗性防御。
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+精选AI代理技能，适用于Claude Code、Cursor、Copilot、Windsurf、Cline。可视化仪表盘、一键安装、技能医生、自动更新。
 - [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L)(*Win*) - 即大名鼎鼎的 AHK，优秀**开源**的自动化软件，时常会在别的地方见到他人分享的 AHK 宏脚本。
 
 ### 启动器
