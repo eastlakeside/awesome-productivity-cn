@@ -107,6 +107,7 @@
 - [OmniFocus](https://www.omnigroup.com/omnifocus) – 用于 Mac OS X 和 iOS 的基于“GTD”的任务管理器。
 - [Pomolectron](https://github.com/amitmerchant1990/pomolectron) – 菜单栏/托盘的番茄钟应用程序。
 - [Remember the Milk](https://www.rememberthemilk.com) – 擅长管理待办事项和基于位置的任务的标签。
+- [Super Productivity](https://super-productivity.com/) – 开源、跨平台的任务管理和时间追踪应用，内置番茄钟，并可对接 Jira、GitHub、GitLab 等开发者工具。
 - [Taskade](https://taskade.com) – 团队的简单协作任务列表。
 - [Taskwarrior](http://taskwarrior.org/) – 一个开源命令行任务管理器。灵活、快速、高效且不引人注目。
 - [Timing](https://timingapp.com/) – Mac 的自动时间和生产力跟踪。帮助您按时完成工作，并确保在按小时计费时不会丢失计费时间。
