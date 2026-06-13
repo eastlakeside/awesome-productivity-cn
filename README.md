@@ -70,6 +70,7 @@
 
 ### 图形化笔记工具
 - [NodeNote](https://github.com/yetao0806/NodeNote) - 支持 markdown 和无限画布的嵌套类型图形化笔记应用。
+- [Flexnote](https://myflexnote.com) - 本地优先的可视化笔记工具，支持 YouTube 视频时间戳笔记、无限画布、PDF 标注、AI 辅助。
 
 ### 在线作图工具
 > 在线制作流程图、思维脑图、UML 等，让思维快速呈现
