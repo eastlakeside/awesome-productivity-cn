@@ -56,6 +56,7 @@
 - [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
 - [Dynalist](https://dynalist.io/) – 模仿 WorkFlowy 的大纲笔记，功能完善的集大成者，多端同步。
 - [flomo](https://flomoapp.com/) - 卡片笔记软件，极简的输入方式，使用标签管理信息。
+- [NoteRich](https://noterich.com) - AI 驱动的笔记工具，内置 RAG 全文搜索。导入文档，自然语言问答，41 种语言支持。免费套餐可用。
 
 ### 新一代知识图谱型笔记工具
 > 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。  
