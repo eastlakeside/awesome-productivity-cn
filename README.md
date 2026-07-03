@@ -40,6 +40,7 @@
 
 
 ## 工具和应用
+- [llm-box](https://github.com/alib8b8/llm-box) - 终端优先的 AI 工作流引擎，支持 TUI、多模型和 YAML 工作流。
 > 工欲善其事必先利其器，在寻找称手兵器之前，请阅读：[工具癖患者的表现及自我修养](https://www.xianmin.org/post/05-tools-addict/)
 
 ### 传统型笔记工具
