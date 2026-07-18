@@ -22,6 +22,11 @@
 - [5 种选择](http://books.simonandschuster.ca/The-5-Choices/Kory-Kogon/9781476711713) by Kory Kogon, Adam Merrill, Leena Rinne – 一种全方位生产力方法论，用于处理优先级、日程安排、技术和精力管理。
 
 
+
+### 时间与会议管理工具
+
+- [Standup Timer](https://ordinarymantrying.com/tools/standup-timer.html) – 免费的浏览器端站立会议计时器，支持多人轮流计时，内置提醒功能，帮助团队将每日站会控制在 15 分钟以内。无需安装，即开即用。
+
 ## 网站
 > 从这里持续获得最新的应用实践。
 
