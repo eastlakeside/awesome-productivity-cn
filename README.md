@@ -184,4 +184,5 @@
 - [Bartender](https://www.macbartender.com/) - Macos 菜单栏图标管理，建议购买[setapp](https://setapp.com/)应用包，性价比更高，或者试试更为小巧的开源产品[Dozer](https://github.com/Mortennn/Dozer)。
 - [KDE Connect](https://apps.kde.org/kdeconnect.kcm/)(*跨平台*) - 著名**开源**社区 KDE 的诸多作品之一，用于手机与电脑间共享文件、粘贴版和通知等。
 - [scrcpy](https://github.com/Genymobile/scrcpy)(*Win*) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的**开源**工具。很多的所谓同类产品实际上是它的套壳。
+- [ClipBoardPrime](https://github.com/MaximusPrime/ClipBoardPrime)(*Win*) - 高效、私密、键盘优先的 Windows 剪贴板与笔记管理工具，支持加密备份。(Fast, private and keyboard-first clipboard manager with integrated notes for Windows).
 - [LyX](https://www.lyx.org/)(*跨平台*) - 所见即所想的**开源**文档处理软件，背靠数学公式吊打一切的 LaTeX，但与 LaTeX 的陡峭学习曲线相比却做到了上手难度极低，可输出为 LaTeX，写论文的好帮手。
