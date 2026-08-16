@@ -42,6 +42,10 @@
 ## 工具和应用
 > 工欲善其事必先利其器，在寻找称手兵器之前，请阅读：[工具癖患者的表现及自我修养](https://www.xianmin.org/post/05-tools-addict/)
 
+### 开发者工作台
+
+- [DSH Studio](https://github.com/Moresyl/dsh-studio) – MIT 开源、本地优先的跨平台开发者桌面工作台，用于集中管理项目、常用命令和本地开发环境，支持 Windows、macOS 和 Linux。
+
 ### 传统型笔记工具
 > 主要功能是把想法记下来，有了想法才能输出
 
