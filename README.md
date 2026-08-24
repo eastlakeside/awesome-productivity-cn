@@ -56,6 +56,7 @@
 - [WorkFlowy](https://workflowy.com/) – 非常流畅的列表大纲型笔记。
 - [Dynalist](https://dynalist.io/) – 模仿 WorkFlowy 的大纲笔记，功能完善的集大成者，多端同步。
 - [flomo](https://flomoapp.com/) - 卡片笔记软件，极简的输入方式，使用标签管理信息。
+- [微语](https://github.com/Sutera-Diffusus/WeChat-daily) – 面向 Windows 的本地优先微信信息整理工具，把消息、语音和历史记录整理成可回溯的日报，并提供 AI 辅助分析、安装包和便携版。
 
 ### 新一代知识图谱型笔记工具
 > 不仅是笔记，而且用双向链接模拟建立神经元链接，让你的知识形成图谱，真正模拟第二大脑。  
