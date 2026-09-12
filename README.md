@@ -135,6 +135,7 @@
 - [Tasker](http://tasker.dinglisch.net/) – Android 应用程序，可以执行上下文敏感的自定义任务（_例如_当你到家时自动打开 wifi）。
 - [Zapier](https://zapier.com/) – 自动化工具，允许您连接数百个 Web 服务并在流程之间创建自动化。
 - [AutoHotKey](https://github.com/Lexikos/AutoHotkey_L)(*Win*) - 即大名鼎鼎的 AHK，优秀**开源**的自动化软件，时常会在别的地方见到他人分享的 AHK 宏脚本。
+- [Orkas](https://orkas.ai/?source=gh_eastlake) – 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
 
 ### 启动器
 > 启动器让你输入简单的命令就可执行一系列操作
