@@ -185,3 +185,5 @@
 - [KDE Connect](https://apps.kde.org/kdeconnect.kcm/)(*跨平台*) - 著名**开源**社区 KDE 的诸多作品之一，用于手机与电脑间共享文件、粘贴版和通知等。
 - [scrcpy](https://github.com/Genymobile/scrcpy)(*Win*) - 通过有线或无线安卓调试桥在电脑上查看并操作手机屏幕的**开源**工具。很多的所谓同类产品实际上是它的套壳。
 - [LyX](https://www.lyx.org/)(*跨平台*) - 所见即所想的**开源**文档处理软件，背靠数学公式吊打一切的 LaTeX，但与 LaTeX 的陡峭学习曲线相比却做到了上手难度极低，可输出为 LaTeX，写论文的好帮手。
+
+- [Glim](https://github.com/NeoPanic/Glim)(*macOS*) - 免费开源的多格式文件查看器，在同一工作区阅读 Markdown（含 Mermaid 图表与公式）、PDF、图片、JSON、CSV 和源代码，支持普通文本的基础编辑。
