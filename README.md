@@ -125,6 +125,7 @@
 - [HabitBull](http://www.habitbull.com/) – 高级习惯追踪器。
 - [Loop Habit Tracker](https://github.com/iSoron/uhabits) – 一个用于创建和保持良好习惯的 Android 应用程序。
 - [Waka Time](https://wakatime.com/) –  开源插件，用于准确了解你编程花费的时间。
+- [涟漪 (Ripple)](https://ripplefocus.github.io/)(*Android*) – 免费无广告的安卓自控与防沉迷工具，支持睡眠专注时段、短视频每日时长上限、放松规则强制等待机制与防冲动卸载。
 
 ### 任务自动化
 > 自动化会让生产力再度飞跃
