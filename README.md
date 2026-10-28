@@ -116,6 +116,7 @@
 - [Topydo](https://github.com/topydo/topydo) – 使用 todo.txt 格式的强大的待办事项列表应用程序，位于 todo.txt CLI 和 Taskwarrior 之间。
 - [Trello](https://trello.com) – Jira 母公司出品的轻量级看板任务工具。
 - [VivifyScrum](https://www.vivifyscrum.com) – 适用于交付团队的敏捷项目管理应用程序。可定制的 Scrum 和看板。
+- [dsh-delivery-board](https://github.com/jerryxff26-alt/dsh-delivery-board) – 写在 git 仓库里的交付看板：阶段流水线、交接审计、软 WIP、周报 Markdown 与本地 kanban/Timeline；可独立 `npx` 运行，也可作 DeepSeek Harness 插件。
 
 ### 习惯追踪器
 > 习惯是有动量惯性势头的，一旦培养起来，会产生飞轮效应。
