@@ -70,6 +70,7 @@
 
 ### 图形化笔记工具
 - [NodeNote](https://github.com/yetao0806/NodeNote) - 支持 markdown 和无限画布的嵌套类型图形化笔记应用。
+- [Knovum](https://github.com/madebyzan/knovum) - 本地优先（Local-First）无限 2D 画布 AI 空间知识库，内嵌 LanceDB 向量检索与结构化知识图谱，支持端侧 Whisper 转录，100% MIT 开源。
 
 ### 在线作图工具
 > 在线制作流程图、思维脑图、UML 等，让思维快速呈现
