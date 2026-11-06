@@ -174,6 +174,7 @@
 > 帮助你生产，而不是消费。谨防「买前生产力，买后爱奇艺」
 
 - 轨迹球鼠标 - 除了通常所说的那些好处，还是桌面空间过于拥挤时（键盘/手机/书籍/纸笔/数位板/茶杯/……）的最佳选择。
+- [OneMira C1](https://onemira.com/products/c1) - 独立录音的本地 AI 会议硬件与双链 Markdown 知识库系统：一键独立录音（无需连接手机）、自动分离说话人（Speaker ID），通过本地 AI 自动生成会议纪要、决策与待办事项，并可通过 [MCP / CLI](https://github.com/onemira-space/onemira-mcp) 直接接入 Obsidian、Claude Code 与 Cursor，零云端依赖、无月租订阅费。
 
 ### 其他杂项
 > 一些暂时没有归类的生产力
