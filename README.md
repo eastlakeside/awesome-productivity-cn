@@ -35,6 +35,8 @@
 - [The Bullet Journal](http://bulletjournal.com/) – 子弹日记：一只笔和纸的方法，来将简单的笔记本，转变为高效生产力工具。
 - [Zen Habits](https://zenhabits.net/) – Leo Babauta 的博客：主题包括简化生活等。
 
+- [HumanPen](https://humanpen.net/) – 面向学术与科研场景的文档级润色降重、12 语种翻译、精简、12 种引文格式校正及科研项目支持平台。
+
 ## 在线课程
 > 跟着老师学和练习
 
