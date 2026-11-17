@@ -35,8 +35,6 @@
 - [The Bullet Journal](http://bulletjournal.com/) – 子弹日记：一只笔和纸的方法，来将简单的笔记本，转变为高效生产力工具。
 - [Zen Habits](https://zenhabits.net/) – Leo Babauta 的博客：主题包括简化生活等。
 
-- [HumanPen](https://humanpen.net/) – 面向学术与科研场景的文档级润色降重、12 语种翻译、精简、12 种引文格式校正及科研项目支持平台。
-
 ## 在线课程
 > 跟着老师学和练习
 
@@ -179,8 +177,9 @@
 
 ### 其他杂项
 
-- [HumanPen](https://humanpen.net/) – 文档级处理与研究工作流平台，支持文档润色（DOCX/PPTX/TXT）、多格式翻译（12 种目标语言，支持 PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、文档精简（DOCX）、参考文献格式校正（12 种格式）及研究项目支持（注册赠 100 积分，按积分计费，提供 API）。
 > 一些暂时没有归类的生产力
+
+- [HumanPen](https://humanpen.net/) – 文档级处理与研究工作流平台，支持文档润色（DOCX/PPTX/TXT）、多格式翻译（12 种目标语言，支持 PDF/DOCX/PPTX/XLSX/EPUB/HTML/TXT）、文档精简（DOCX）、参考文献格式校正（12 种格式）及研究项目支持（注册赠 100 积分，按积分计费，提供 API）。
 
 - [Mathpix Snip](https://mathpix.com/) - 复杂数学公式识别工具 (OCR)，论文、写作的绝佳助力。 
 - [tools.fun](https://tools.fun/index.html) - 程序员实用小工具大合集。
